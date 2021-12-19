@@ -64,7 +64,7 @@
     "styled-components": "^5.3.0"
   },
   "resolutions": {
-    "graphql": "^15.3.0"
+    "graphql": "^14.7.0"
   },
   "devDependencies": {
     "@babel/core": "^7.14.0",
